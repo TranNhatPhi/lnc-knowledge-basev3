@@ -1,53 +1,37 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 30/06/2026 lúc 15:50 chiều (giờ VN)  
-**Loại cập nhật:** Quarterly  
-**Kết quả:** 34 nguồn | ✅ 34 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 01/07/2026 lúc 10:04 sáng (giờ VN)  
+**Loại cập nhật:** Monthly  
+**Kết quả:** 8 nguồn | ✅ 7 thành công | ❌ 1 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
 ### AAIP — Alberta Advantage Immigration Program
-- ✅ Điều kiện đủ điều kiện
-- ✅ Quy trình nộp hồ sơ
-- ✅ Sau khi được đề cử
-- ✅ Danh sách cộng đồng
-- ✅ program_overview
-- ✅ Điều kiện đủ điều kiện
-- ✅ Sau khi được đề cử
-- ✅ program_overview
-- ✅ Điều kiện đủ điều kiện
-- ✅ Sau khi được đề cử
-- ✅ program_overview
-- ✅ Điều kiện đủ điều kiện
-- ✅ Sau khi được đề cử
-- ✅ Danh sách cộng đồng
-- ✅ program_overview
-- ✅ Điều kiện đủ điều kiện
-- ✅ Quy trình nộp hồ sơ
-- ✅ Sau khi được đề cử
-- ✅ program_overview
-- ✅ Điều kiện đủ điều kiện
-- ✅ program_overview
-- ✅ Điều kiện đủ điều kiện
-- ✅ Quy trình nộp hồ sơ
-- ✅ resources
-- ✅ forms_guides
-- ✅ forms_guides
-- ✅ forms_guides
-- ✅ Câu hỏi thường gặp (FAQ)
-
-### BCPNP — BC Provincial Nominee Program
-- ✅ program_core
-- ✅ Điều kiện đủ điều kiện
-- ✅ documents
-- ✅ forms_guides
-- ✅ Danh sách cộng đồng
+- ✅ Thống kê & pipeline
+- ❌ **Lịch sử draws / mời ứng viên** — _File not found: output/lnc-knowledge-base/06_statistics/aaip/draw_history_2026.json_
 
 ### IRCC — Immigration, Refugees and Citizenship Canada
-- ✅ program_overview
+- ✅ Thời gian xử lý hồ sơ
+- ✅ Số lượng phê duyệt thường trú nhân (PR)
+
+### Job Bank — Thị trường việc làm Canada
+- ✅ job_market
+- ✅ job_market
+
+### CIC News — Tin tức di trú
+- ✅ news_pnp
+- ✅ news_express_entry
 
 ---
 
-_Cập nhật tiếp theo: quý tới._
+## ⚠️ Nguồn bị lỗi
+
+Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
+
+- **Lịch sử draws / mời ứng viên** (AAIP): https://www.alberta.ca/system/files/im-aaip-draw-history-summary.pdf
+
+---
+
+_Cập nhật tiếp theo: tháng tới (ngày 1)._

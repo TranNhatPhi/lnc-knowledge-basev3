@@ -182,3 +182,5 @@
 {"run_id": "2026-07-01T04:37Z_quarterly", "source_id": "ircc_ee_pnp_link", "status": "ok", "changed": true, "duration_s": 1.1, "timestamp": "2026-07-01T04:37:26.331961+00:00"}
 {"run_id": "2026-07-02T04:31Z_monthly", "source_id": "jobbank_alberta", "status": "ok", "changed": true, "duration_s": 0.4, "timestamp": "2026-07-02T04:31:41.526344+00:00"}
 {"run_id": "2026-07-02T04:31Z_monthly", "source_id": "jobbank_bc", "status": "ok", "changed": true, "duration_s": 0.4, "timestamp": "2026-07-02T04:31:41.526344+00:00"}
+{"run_id": "2026-07-03T04:22Z_monthly", "source_id": "cicnews_pnp", "status": "ok", "changed": true, "duration_s": 4.5, "timestamp": "2026-07-03T04:22:50.289353+00:00"}
+{"run_id": "2026-07-03T04:22Z_monthly", "source_id": "cicnews_express_entry", "status": "ok", "changed": true, "duration_s": 7.2, "timestamp": "2026-07-03T04:22:50.289353+00:00"}

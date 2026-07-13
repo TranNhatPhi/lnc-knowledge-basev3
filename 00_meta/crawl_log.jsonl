@@ -185,3 +185,4 @@
 {"run_id": "2026-07-03T04:22Z_monthly", "source_id": "cicnews_pnp", "status": "ok", "changed": true, "duration_s": 4.5, "timestamp": "2026-07-03T04:22:50.289353+00:00"}
 {"run_id": "2026-07-03T04:22Z_monthly", "source_id": "cicnews_express_entry", "status": "ok", "changed": true, "duration_s": 7.2, "timestamp": "2026-07-03T04:22:50.289353+00:00"}
 {"run_id": "2026-07-06T03:05Z_weekly", "source_id": "bcpnp_invitations", "status": "ok", "changed": true, "duration_s": 2.9, "timestamp": "2026-07-06T03:05:02.726942+00:00"}
+{"run_id": "2026-07-13T03:03Z_weekly", "source_id": "bcpnp_invitations", "status": "ok", "changed": true, "duration_s": 1.6, "timestamp": "2026-07-13T03:03:21.006821+00:00"}

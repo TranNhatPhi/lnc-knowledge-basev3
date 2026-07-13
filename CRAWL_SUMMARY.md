@@ -1,6 +1,6 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 06/07/2026 lúc 10:05 sáng (giờ VN)  
+**Cập nhật lúc:** 13/07/2026 lúc 10:03 sáng (giờ VN)  
 **Loại cập nhật:** Weekly  
 **Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
 

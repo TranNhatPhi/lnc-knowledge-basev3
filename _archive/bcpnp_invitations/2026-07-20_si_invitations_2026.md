@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
-content_hash: 4d7d286b3750fd74
+content_hash: 12026a0ddc068ca8
 file_role: si_invitations_2026
 lang: en
-last_updated: '2026-07-20'
+last_updated: '2026-07-13'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -16,24 +16,23 @@ version: '1.0'
 ---
 
 ##  Skills Immigration invitations 
-**Date**: July 16, 2026. **ITA type**: [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Minimum wage of $58/hour and $115,000/year, and NOC 0, 1, 2, or 3. **Number of invitations**: 223.
 **Date**: July 9, 2026. **ITA type**: [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Early childhood educators only *. **Minimum score**: 108. **Number of invitations**: 91.
 Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
 [Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations *| 97| 136  
-June 18, 2026| [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Minimum wage of $62/hour and $125,000/year, and NOC 0, 1, 2, or 3| N/A| 130  
-[Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Points| 136| 149  
-June 2, 2026| [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Early childhood educators *| 111| 91  
-[Care: Health](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority health care occupations *| 100| 117  
-[Care: Veterinary Care](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority veterinary care occupations | 92| 6  
+June 18, 2026| [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| Minimum wage of $62/hour and $125,000/year, and NOC 0, 1, 2, or 3| N/A| 130  
+[Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| Points| 136| 149  
+June 2, 2026| [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| Early childhood educators *| 111| 91  
+[Care: Health](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| All priority health care occupations *| 100| 117  
+[Care: Veterinary Care](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| All priority veterinary care occupations | 92| 6  
 Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
-[Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations *| 101| 128  
-May 14, 2026| [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Minimum wage of $59/hour and $120,000/year, and NOC 0, 1, 2, or 3| N/A| 225  
-[Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Points| 135| 212  
-May 6, 2026| [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Early childhood educators only (NOC 42202) *| 115| 86  
-[Care: Health](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority health care occupations *| 108| 117  
-[Care: Veterinary Care](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority veterinary care occupations| 100| 9  
+[Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| All priority construction occupations *| 101| 128  
+May 14, 2026| [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| Minimum wage of $59/hour and $120,000/year, and NOC 0, 1, 2, or 3| N/A| 225  
+[Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| Points| 135| 212  
+May 6, 2026| [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| Early childhood educators only (NOC 42202) *| 115| 86  
+[Care: Health](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| All priority health care occupations *| 108| 117  
+[Care: Veterinary Care](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| All priority veterinary care occupations| 100| 9  
 Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
-[Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations (including workers who have apprenticeships registered with SkilledTradesBC) *| 108| 121  
+[Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers)| All priority construction occupations (including workers who have apprenticeships registered with SkilledTradesBC) *| 108| 121  
 * ITA was conducted as described on the [sector-specific selection of workers](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers) page.
 ### **April 22, 2026**
 On April 22, 2026, the BC PNP issued invitations to apply to 484 candidates who will create high economic impact in B.C. Invitations were issued to candidates with: 

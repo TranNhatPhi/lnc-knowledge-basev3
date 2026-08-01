@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 10
 chunk_strategy: standard
-content_hash: 332f9dde3fc25ef4
+content_hash: 0a015f5b911f7481
 file_role: express_entry_news
 lang: en
-last_updated: '2026-07-03'
+last_updated: '2026-08-01'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,107 +17,107 @@ version: '1.0'
 
 # CIC News — Express Entry
 
-**Crawled:** 2026-07-03  
+**Crawled:** 2026-08-01  
 **Source:** https://www.cicnews.com/category/express-entry/feed/
 
 ---
 
-## IRCC issues invitations to healthcare and social services workers in Express Entry draw
+## Canada holds first permanent residence selection of skilled military recruits
 
-**Date:** Thu, 25 Jun 2026 18:50:44 +0000  
-**Link:** https://www.cicnews.com/2026/06/ircc-issues-invitations-to-healthcare-and-social-services-workers-in-express-entry-draw-0677192.html
+**Date:** Thu, 23 Jul 2026 16:04:39 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-holds-first-permanent-residence-selection-of-skilled-military-recruits-0778405.html
 
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 4,000 ITAs in a draw for Healthcare and Social Services candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 475; and Created an [&#8230;]
-The post IRCC issues invitations to healthcare and social services workers in Express Entry draw first appeared on CIC News.
-
----
-
-## Canada issues physicians invitations to apply for permanent residence
-
-**Date:** Wed, 24 Jun 2026 17:16:15 +0000  
-**Link:** https://www.cicnews.com/2026/06/canada-issues-physicians-invitations-to-apply-for-permanent-residence-0677091.html
-
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 271 ITAs in a draw for Physicians with Canadian Work Experience candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 223; and Created [&#8230;]
-The post Canada issues physicians invitations to apply for permanent residence first appeared on CIC News.
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued four ITAs in a draw targeting skilled military recruits. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 368; and Created an Express Entry [&#8230;]
+The post Canada holds first permanent residence selection of skilled military recruits first appeared on CIC News.
 
 ---
 
-## Express Entry pool gets more top heavy
+## French-language Express Entry draw sees CRS cutoff dip below 400
 
-**Date:** Tue, 23 Jun 2026 17:48:32 +0000  
-**Link:** https://www.cicnews.com/2026/06/express-entry-pool-gets-more-top-heavy-0677092.html
+**Date:** Wed, 22 Jul 2026 16:56:42 +0000  
+**Link:** https://www.cicnews.com/2026/07/french-language-express-entry-draw-sees-crs-cutoff-dip-below-400-0778376.html
 
-From May 24 to June 21, the number of top-scoring Express Entry profiles grew at a rate 4,400% faster than the overall pool. The overall Express Entry pool grew by 0.33%, while the number of candidates scoring 501 or higher increased by 14.64%. See how competitive your Express Entry profile is The 501–1,200 range accounted [&#8230;]
-The post Express Entry pool gets more top heavy first appeared on CIC News.
-
----
-
-## Canada holds largest Canadian Experience Class draw since March
-
-**Date:** Tue, 23 Jun 2026 16:04:17 +0000  
-**Link:** https://www.cicnews.com/2026/06/canada-holds-largest-canadian-experience-class-draw-since-march-0677061.html
-
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 4,000 ITAs in a draw for Canadian Experience Class candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 516; and Created an Express Entry candidate [&#8230;]
-The post Canada holds largest Canadian Experience Class draw since March first appeared on CIC News.
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French-language abilities. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 399; and Created an Express [&#8230;]
+The post French-language Express Entry draw sees CRS cutoff dip below 400 first appeared on CIC News.
 
 ---
 
-## Provincial nominees receive invitations in first Express Entry draw since May
+## Canada updates distribution of Express Entry profile scores
 
-**Date:** Mon, 22 Jun 2026 18:28:25 +0000  
-**Link:** https://www.cicnews.com/2026/06/provincial-nominees-receive-invitations-in-first-express-entry-draw-since-may-0676084.html
+**Date:** Tue, 21 Jul 2026 17:23:53 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-updates-distribution-of-express-entry-profile-scores-0778314.html
 
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 955 ITAs in a draw for Provincial Nominee Program (PNP) candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 730; and Created an [&#8230;]
-The post Provincial nominees receive invitations in first Express Entry draw since May first appeared on CIC News.
-
----
-
-## Proposed high-wage factor offers boon to Express Entry candidates in these priority occupations
-
-**Date:** Fri, 12 Jun 2026 11:00:26 +0000  
-**Link:** https://www.cicnews.com/2026/06/proposed-high-wage-factor-offers-boon-to-express-entry-candidates-in-these-priority-occupations-0676571.html
-
-Of the occupations currently being prioritized for permanent residence by the Canadian federal government, about four in ten are set to receive a further boost in priority through the proposed high-wage occupation factor. As it stands today, 89 occupations are prioritized through category-based selection (CBS), which allows qualifying candidates to be selected as permanent residents [&#8230;]
-The post Proposed high-wage factor offers boon to Express Entry candidates in these priority occupations first appeared on CIC News.
+Between July 5–July 19, the Express Entry pool declined by over 3,500 profiles, and nearly every score band from 421 onward shrank in size, according to the latest data published by Canada’s immigration department. The number of top-scoring profiles fell from 19,136 to 18,644 over this two-week period. See how competitive your Express Entry profile [&#8230;]
+The post Canada updates distribution of Express Entry profile scores first appeared on CIC News.
 
 ---
 
-## Three steps candidates can take to prepare for the reforms to permanent residence selection through Express Entry
+## Canada invites Canadian Experience Class candidates to apply for permanent residence
 
-**Date:** Wed, 03 Jun 2026 11:00:09 +0000  
-**Link:** https://www.cicnews.com/2026/06/three-steps-candidates-can-take-to-prepare-for-the-reforms-to-permanent-residence-selection-through-express-entry-0675745.html
+**Date:** Tue, 21 Jul 2026 14:20:08 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-invites-canadian-experience-class-candidates-to-apply-for-permanent-residence-0778220.html
 
-With the federal government currently undergoing a major overhaul of Express Entry, its flagship system for selecting permanent residents, foreign nationals can immediately take action by focusing on skilled work experience, obtaining a certificate of qualification (if applicable), and re-taking an immigration language test.  Book an immigration language test with CELPIP Given that the proposed reforms are currently working their way through the [&#8230;]
-The post Three steps candidates can take to prepare for the reforms to permanent residence selection through Express Entry first appeared on CIC News.
-
----
-
-## 93% of Express Entry pool growth driven by candidates scoring in the 501–600 range
-
-**Date:** Thu, 28 May 2026 20:52:48 +0000  
-**Link:** https://www.cicnews.com/2026/05/93-of-express-entry-pool-growth-driven-by-candidates-scoring-in-the-501-600-range-0576048.html
-
-Profiles in the 501–600 Comprehensive Ranking System (CRS) score range are being added to Canada’s Express Entry candidate pool at a rate that far exceeds any other group of candidates. Canada’s Express Entry pool grew by 4,395 profiles between April 26 and May 24, with the 501-600 CRS score range alone adding 4,085 profiles, 93% [&#8230;]
-The post 93% of Express Entry pool growth driven by candidates scoring in the 501–600 range first appeared on CIC News.
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 2,000 ITAs in a draw for Canadian Experience Class candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 516; and Created an Express Entry [&#8230;]
+The post Canada invites Canadian Experience Class candidates to apply for permanent residence first appeared on CIC News.
 
 ---
 
-## French-speaking Express Entry candidates receive invitations at higher CRS cut-off
+## Canada issues invitations to apply to provincial nominees
 
-**Date:** Thu, 28 May 2026 16:25:04 +0000  
-**Link:** https://www.cicnews.com/2026/05/fourth-express-entry-draw-of-may-0576013.html
+**Date:** Mon, 20 Jul 2026 15:26:20 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-issues-invitations-to-apply-to-provincial-nominees-0777930.html
 
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 4,500 ITAs in a draw for candidates with French language proficiency. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 409; and Created an [&#8230;]
-The post French-speaking Express Entry candidates receive invitations at higher CRS cut-off first appeared on CIC News.
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 511 ITAs in a draw for Express Entry candidates with a provincial nomination. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 744; and Created [&#8230;]
+The post Canada issues invitations to apply to provincial nominees first appeared on CIC News.
 
 ---
 
-## Canada holds first Canadian Experience Class Express Entry draw in four weeks
+## Canada holds second-ever Express Entry draw for senior managers with Canadian work experience
 
-**Date:** Wed, 27 May 2026 15:50:44 +0000  
-**Link:** https://www.cicnews.com/2026/05/canada-holds-first-canadian-experience-class-express-entry-draw-in-four-weeks-0575848.html
+**Date:** Fri, 10 Jul 2026 14:53:03 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-holds-second-ever-express-entry-draw-for-senior-managers-with-canadian-work-experience-0777820.html
 
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 3,000 ITAs in a draw for Canadian Experience Class (CEC) candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 518; and Created an [&#8230;]
-The post Canada holds first Canadian Experience Class Express Entry draw in four weeks first appeared on CIC News.
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 500 ITAs in a draw for senior managers with Canadian work experience. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 392; and Created an [&#8230;]
+The post Canada holds second-ever Express Entry draw for senior managers with Canadian work experience first appeared on CIC News.
+
+---
+
+## Canada invites French-speaking candidates to apply for permanent residence through Express Entry
+
+**Date:** Thu, 09 Jul 2026 15:00:13 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-invites-french-speaking-candidates-to-apply-for-permanent-residence-through-express-entry-0777713.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French language proficiency. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 420; and Created an [&#8230;]
+The post Canada invites French-speaking candidates to apply for permanent residence through Express Entry first appeared on CIC News.
+
+---
+
+## IRCC publishes updated distribution of Express Entry candidate scores
+
+**Date:** Tue, 07 Jul 2026 19:39:43 +0000  
+**Link:** https://www.cicnews.com/2026/07/ircc-publishes-updated-distribution-of-express-entry-candidate-scores-0777657.html
+
+The number of top-scoring candidate profiles in the Express Entry pool has fallen from 20,953 to 19,136, according to the latest data published by Canada’s immigration department. See how competitive your Express Entry profile is The most recent data was published on July 5, and compares as follows to the update published on June 21: [&#8230;]
+The post IRCC publishes updated distribution of Express Entry candidate scores first appeared on CIC News.
+
+---
+
+## Canada holds first Canadian Experience Class draw of July
+
+**Date:** Tue, 07 Jul 2026 16:09:41 +0000  
+**Link:** https://www.cicnews.com/2026/07/canada-holds-first-canadian-experience-class-draw-of-july-0777638.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 2,000 ITAs in a draw for Canadian Experience Class candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 517; and Created an Express [&#8230;]
+The post Canada holds first Canadian Experience Class draw of July first appeared on CIC News.
+
+---
+
+## First Express Entry draw of July sees lowest PNP cut-off score this year
+
+**Date:** Mon, 06 Jul 2026 18:48:39 +0000  
+**Link:** https://www.cicnews.com/2026/07/first-express-entry-draw-of-july-sees-lowest-pnp-cut-off-score-this-year-0777251.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 534 ITAs in a draw for Provincial Nominee Program candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 708; and Created an Express Entry candidate [&#8230;]
+The post First Express Entry draw of July sees lowest PNP cut-off score this year first appeared on CIC News.
 
 ---

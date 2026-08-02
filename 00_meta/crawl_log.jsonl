@@ -199,3 +199,5 @@
 {"run_id": "2026-08-01T03:01Z_monthly", "source_id": "cicnews_express_entry", "status": "ok", "changed": true, "duration_s": 7.0, "timestamp": "2026-08-01T03:01:34.668628+00:00"}
 {"run_id": "2026-08-01T04:05Z_biweekly", "source_id": "reddit_alberta", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-08-01T04:05:50.658727+00:00"}
 {"run_id": "2026-08-01T04:05Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-08-01T04:05:50.658727+00:00"}
+{"run_id": "2026-08-02T04:15Z_monthly", "source_id": "jobbank_alberta", "status": "ok", "changed": true, "duration_s": 0.6, "timestamp": "2026-08-02T04:15:58.464615+00:00"}
+{"run_id": "2026-08-02T04:15Z_monthly", "source_id": "jobbank_bc", "status": "ok", "changed": true, "duration_s": 0.5, "timestamp": "2026-08-02T04:15:58.464615+00:00"}

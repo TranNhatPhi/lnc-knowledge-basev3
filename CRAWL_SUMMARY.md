@@ -1,17 +1,17 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 01/08/2026 lúc 11:05 sáng (giờ VN)  
-**Loại cập nhật:** Biweekly  
+**Cập nhật lúc:** 02/08/2026 lúc 11:15 sáng (giờ VN)  
+**Loại cập nhật:** Monthly  
 **Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### Reddit — Cộng đồng di trú
-- ✅ Danh sách cộng đồng
-- ✅ Danh sách cộng đồng
+### Job Bank — Thị trường việc làm Canada
+- ✅ job_market
+- ✅ job_market
 
 ---
 
-_Cập nhật tiếp theo: 2 tuần tới (ngày 1 hoặc 15)._
+_Cập nhật tiếp theo: tháng tới (ngày 1)._

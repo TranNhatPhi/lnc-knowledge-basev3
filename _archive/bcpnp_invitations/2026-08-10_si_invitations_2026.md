@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
-content_hash: 8787ecdd8d7618ae
+content_hash: 91f7c7f2f0e05c38
 file_role: si_invitations_2026
 lang: en
-last_updated: '2026-08-10'
+last_updated: '2026-08-03'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -16,15 +16,9 @@ version: '1.0'
 ---
 
 ##  Skills Immigration invitations 
-**Date**: August 6, 2026. **ITA type**: [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Early childhood educators only *. **Minimum score**: 102. **Number of invitations**: 183.
-Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
-[Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations *| 88| 187  
-July 23, 2026| [Temporary Rural/Remote Health Support Initiative](https://www.welcomebc.ca/immigrate-to-b-c/for-workers)| Points| 50| 60  
-July 16, 2026| [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Minimum wage of $58/hour and $115,000/year, and NOC 0, 1, 2, or 3| N/A| 223  
-[Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Points| 132| 346  
-July 9, 2026| [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Early childhood educators only *| 108| 91  
-[Care: Health](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority health care occupations *| 96| 116  
-[Care: Veterinary Care](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority veterinary care occupations | 88| <5  
+**Date**: July 23, 2026. **ITA type**: [Temporary Rural/Remote Health Support Initiative](https://www.welcomebc.ca/immigrate-to-b-c/for-workers). **Selection factors**: Points. **Minimum score**: 50. **Number of invitations**: 60.
+**Date**: July 16, 2026. **ITA type**: [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Minimum wage of $58/hour and $115,000/year, and NOC 0, 1, 2, or 3. **Number of invitations**: 223.
+**Date**: July 9, 2026. **ITA type**: [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Early childhood educators only *. **Minimum score**: 108. **Number of invitations**: 91.
 Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
 [Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations *| 97| 136  
 June 18, 2026| [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| Minimum wage of $62/hour and $125,000/year, and NOC 0, 1, 2, or 3| N/A| 130  
@@ -41,7 +35,7 @@ May 6, 2026| [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-t
 [Care: Veterinary Care](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority veterinary care occupations| 100| 9  
 Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
 [Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations (including workers who have apprenticeships registered with SkilledTradesBC) *| 108| 121  
-* ITA was conducted as described on the [selection of workers](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers) page.
+* ITA was conducted as described on the [sector-specific selection of workers](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Sector_specific_selection_of_workers) page.
 ### **April 22, 2026**
 On April 22, 2026, the BC PNP issued invitations to apply to 484 candidates who will create high economic impact in B.C. Invitations were issued to candidates with: 
   * A minimum wage of $62/hour and $125,000/year, and a job offer in NOC TEER 0, 1, 2 or 3 (252 candidates), or
@@ -68,16 +62,16 @@ Future high economic impact invitations to apply may be based on different facto
 **Please note** : Invitations to apply are issued to qualified registrations received before the date of the draw. 
 To see previous invitations to apply, please visit the [](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/archives)[Archives](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/archives#Invitations_to_apply) page.
 ### Skills Immigration registration pool
-The table below shows the break down of registrations by score range that are in the Skills Immigration registration pool as of August 4, 2026:
-Score range: 150+. Number of registrations: 10.
-Score range: 140 - 149. Number of registrations: 38.
-Score range: 130 - 139. Number of registrations: 241.
-Score range: 120 - 129. Number of registrations: 1,023.
-Score range: 110 - 119. Number of registrations: 1,332.
-Score range: 100 - 109. Number of registrations: 1,651.
-Score range: 90 - 99. Number of registrations: 1,468.
-Score range: 80 - 89. Number of registrations: 1,219.
-Score range: 70 - 79. Number of registrations: 739.
-Score range: 60 - 69. Number of registrations: 373.
-Score range: 0 - 59. Number of registrations: 212.
-Score range: **Total:**. Number of registrations: **8,306**.
+The table below shows the break down of registrations by score range that are in the Skills Immigration registration pool as of July 7, 2026:
+Score range: 150+. Number of registrations: 12.
+Score range: 140 - 149. Number of registrations: 34.
+Score range: 130 - 139. Number of registrations: 440.
+Score range: 120 - 129. Number of registrations: 1,058.
+Score range: 110 - 119. Number of registrations: 1,369.
+Score range: 100 - 109. Number of registrations: 1,728.
+Score range: 90 - 99. Number of registrations: 1,496.
+Score range: 80 - 89. Number of registrations: 1,227.
+Score range: 70 - 79. Number of registrations: 729.
+Score range: 60 - 69. Number of registrations: 381.
+Score range: 0 - 59. Number of registrations: 209.
+Score range: **Total:**. Number of registrations: **8,683**.

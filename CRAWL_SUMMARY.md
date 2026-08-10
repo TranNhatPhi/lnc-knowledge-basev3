@@ -1,17 +1,16 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 03/08/2026 lúc 11:17 sáng (giờ VN)  
-**Loại cập nhật:** Monthly  
-**Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 10/08/2026 lúc 09:46 sáng (giờ VN)  
+**Loại cập nhật:** Weekly  
+**Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### CIC News — Tin tức di trú
-- ✅ news_pnp
-- ✅ news_express_entry
+### BCPNP — BC Provincial Nominee Program
+- ✅ Lịch sử draws / mời ứng viên
 
 ---
 
-_Cập nhật tiếp theo: tháng tới (ngày 1)._
+_Cập nhật tiếp theo: tuần tới (thứ Hai)._

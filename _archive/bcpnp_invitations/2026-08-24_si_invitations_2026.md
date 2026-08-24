@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
-content_hash: 3da34b0fe0c79691
+content_hash: 8787ecdd8d7618ae
 file_role: si_invitations_2026
 lang: en
-last_updated: '2026-08-24'
+last_updated: '2026-08-17'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -16,7 +16,6 @@ version: '1.0'
 ---
 
 ##  Skills Immigration invitations 
-**Date**: August 20, 2026. **ITA type**: [Innovate: High Economic Impact](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Minimum wage of $55/hour and $110,000/year, and NOC 0, 1, 2, or 3. **Number of invitations**: 337.
 **Date**: August 6, 2026. **ITA type**: [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Early childhood educators only *. **Minimum score**: 102. **Number of invitations**: 183.
 Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
 [Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations *| 88| 187  

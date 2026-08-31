@@ -4,7 +4,7 @@ chunk_strategy: structured
 content_hash: 3da34b0fe0c79691
 file_role: si_invitations_2026
 lang: en
-last_updated: '2026-08-31'
+last_updated: '2026-08-24'
 priority_weight: 1
 program: BCPNP
 province: BC

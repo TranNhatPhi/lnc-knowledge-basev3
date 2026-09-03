@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 10
 chunk_strategy: standard
-content_hash: f42bfba577404392
+content_hash: 6c6912230a7d4ee6
 file_role: express_entry_news
 lang: en
-last_updated: '2026-09-03'
+last_updated: '2026-09-01'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,28 +17,8 @@ version: '1.0'
 
 # CIC News — Express Entry
 
-**Crawled:** 2026-09-03  
+**Crawled:** 2026-09-01  
 **Source:** https://www.cicnews.com/category/express-entry/feed/
-
----
-
-## Canada updates breakdown of Express Entry candidate scores
-
-**Date:** Tue, 01 Sep 2026 17:14:21 +0000  
-**Link:** https://www.cicnews.com/2026/09/canada-updates-breakdown-of-express-entry-candidate-scores-0979855.html
-
-The Express Entry pool declined by just 186 profiles overall between August 16 and August 30, despite a drop of nearly 1,800 profiles in the 351–400 CRS band, according to the latest figures from Canada’s immigration department. At the same time, the number of top-scoring Express Entry profiles increased from 19,096 to 20,101 over the [&#8230;]
-The post Canada updates breakdown of Express Entry candidate scores first appeared on CIC News.
-
----
-
-## IRCC invites 2,000 Canadian Experience Class candidates to apply for permanent residence
-
-**Date:** Tue, 01 Sep 2026 16:05:34 +0000  
-**Link:** https://www.cicnews.com/2026/09/ircc-invites-2000-canadian-experience-class-candidates-to-apply-for-permanent-residence-0979841.html
-
-Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 2,000 ITAs in a draw for Canadian Experience Class candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 521; and Created an Express Entry candidate [&#8230;]
-The post IRCC invites 2,000 Canadian Experience Class candidates to apply for permanent residence first appeared on CIC News.
 
 ---
 
@@ -119,5 +99,25 @@ The post Canada holds first permanent residence selections under revamped transp
 
 Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 5,000 ITAs in a draw for candidates with French-language abilities. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 391; and Created an Express Entry [&#8230;]
 The post Canada invites French-speaking Express Entry candidates to apply for PR first appeared on CIC News.
+
+---
+
+## IRCC releases updated distribution of candidate scores in the Express Entry pool
+
+**Date:** Wed, 05 Aug 2026 18:53:40 +0000  
+**Link:** https://www.cicnews.com/2026/08/ircc-releases-updated-distribution-of-candidate-scores-in-the-express-entry-pool-0878899.html
+
+The Express Entry pool contracted by more than 2,400 profiles between July 19–August 3, despite an increase of over 1,500 candidates in the 501–600 CRS score range, according to the latest data provided by Canada’s immigration department. Declines occurred across all ranges up to 470, while growth was recorded in almost every range above that [&#8230;]
+The post IRCC releases updated distribution of candidate scores in the Express Entry pool first appeared on CIC News.
+
+---
+
+## Canadian Experience Class candidates invited to apply for permanent residence
+
+**Date:** Wed, 05 Aug 2026 14:25:52 +0000  
+**Link:** https://www.cicnews.com/2026/08/canadian-experience-class-candidates-invited-to-apply-for-permanent-residence-0878832.html
+
+Immigration, Refugees and Citizenship Canada (IRCC) has issued more invitations to apply (ITA) through the Express Entry system. The immigration department issued 3,000 ITAs in a draw for Canadian Experience Class candidates. To be considered in this draw, candidates needed to have: A minimum Comprehensive Ranking System (CRS) score of 516; and Created an Express Entry candidate [&#8230;]
+The post Canadian Experience Class candidates invited to apply for permanent residence first appeared on CIC News.
 
 ---

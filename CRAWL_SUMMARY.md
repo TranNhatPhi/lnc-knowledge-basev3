@@ -1,16 +1,17 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 14/09/2026 lúc 14:25 chiều (giờ VN)  
-**Loại cập nhật:** Weekly  
-**Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 15/09/2026 lúc 15:03 chiều (giờ VN)  
+**Loại cập nhật:** Biweekly  
+**Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### BCPNP — BC Provincial Nominee Program
-- ✅ Lịch sử draws / mời ứng viên
+### Reddit — Cộng đồng di trú
+- ✅ Danh sách cộng đồng
+- ✅ Danh sách cộng đồng
 
 ---
 
-_Cập nhật tiếp theo: tuần tới (thứ Hai)._
+_Cập nhật tiếp theo: 2 tuần tới (ngày 1 hoặc 15)._

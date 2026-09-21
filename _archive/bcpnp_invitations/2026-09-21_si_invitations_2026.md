@@ -1,10 +1,10 @@
 ---
 access_level: chatbot
 chunk_strategy: structured
-content_hash: 3868a1d11a95c2ab
+content_hash: 66a4f13353b75656
 file_role: si_invitations_2026
 lang: en
-last_updated: '2026-09-21'
+last_updated: '2026-09-14'
 priority_weight: 1
 program: BCPNP
 province: BC
@@ -16,7 +16,6 @@ version: '1.0'
 ---
 
 ##  Skills Immigration invitations 
-**Date**: September 17, 2026. **ITA type**: [Temporary Rural/Remote Health Support Initiative](https://www.welcomebc.ca/immigrate-to-b-c/for-workers). **Selection factors**: Points. **Minimum score**: 60. **Number of invitations**: 33.
 **Date**: September 10, 2026. **ITA type**: [Care: Childcare](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers). **Selection factors**: Early childhood educators only *. **Minimum score**: 99. **Number of invitations**: 182.
 Animal health technologists and veterinary technicians (NOC 32104) with valid professional designation  
 [Build: Construction Trades](https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program/about-the-bc-provincial-nominee-program#Selection_of_workers)| All priority construction occupations *| 94| 104  

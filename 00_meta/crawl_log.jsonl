@@ -229,3 +229,4 @@
 {"run_id": "2026-09-15T08:03Z_biweekly", "source_id": "reddit_alberta", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-09-15T08:03:19.693681+00:00"}
 {"run_id": "2026-09-15T08:03Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-09-15T08:03:19.693681+00:00"}
 {"run_id": "2026-09-21T07:28Z_weekly", "source_id": "bcpnp_invitations", "status": "ok", "changed": true, "duration_s": 1.8, "timestamp": "2026-09-21T07:28:57.229289+00:00"}
+{"run_id": "2026-09-28T08:02Z_weekly", "source_id": "bcpnp_invitations", "status": "ok", "changed": true, "duration_s": 2.4, "timestamp": "2026-09-28T08:02:58.888170+00:00"}

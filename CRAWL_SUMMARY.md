@@ -1,16 +1,53 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 28/09/2026 lúc 15:02 chiều (giờ VN)  
-**Loại cập nhật:** Weekly  
-**Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 01/10/2026 lúc 10:23 sáng (giờ VN)  
+**Loại cập nhật:** Quarterly  
+**Kết quả:** 34 nguồn | ✅ 34 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
+### AAIP — Alberta Advantage Immigration Program
+- ✅ Điều kiện đủ điều kiện
+- ✅ Quy trình nộp hồ sơ
+- ✅ Sau khi được đề cử
+- ✅ Danh sách cộng đồng
+- ✅ program_overview
+- ✅ Điều kiện đủ điều kiện
+- ✅ Sau khi được đề cử
+- ✅ program_overview
+- ✅ Điều kiện đủ điều kiện
+- ✅ Sau khi được đề cử
+- ✅ program_overview
+- ✅ Điều kiện đủ điều kiện
+- ✅ Sau khi được đề cử
+- ✅ Danh sách cộng đồng
+- ✅ program_overview
+- ✅ Điều kiện đủ điều kiện
+- ✅ Quy trình nộp hồ sơ
+- ✅ Sau khi được đề cử
+- ✅ program_overview
+- ✅ Điều kiện đủ điều kiện
+- ✅ program_overview
+- ✅ Điều kiện đủ điều kiện
+- ✅ Quy trình nộp hồ sơ
+- ✅ resources
+- ✅ forms_guides
+- ✅ forms_guides
+- ✅ forms_guides
+- ✅ Câu hỏi thường gặp (FAQ)
+
 ### BCPNP — BC Provincial Nominee Program
-- ✅ Lịch sử draws / mời ứng viên
+- ✅ program_core
+- ✅ Điều kiện đủ điều kiện
+- ✅ documents
+- ✅ forms_guides
+- ✅ Danh sách cộng đồng
+
+### IRCC — Immigration, Refugees and Citizenship Canada
+- ✅ program_overview
 
 ---
 
-_Cập nhật tiếp theo: tuần tới (thứ Hai)._
+_Cập nhật tiếp theo: quý tới._

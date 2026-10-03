@@ -276,3 +276,5 @@
 {"run_id": "2026-10-01T09:27Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.2, "timestamp": "2026-10-01T09:27:53.791401+00:00"}
 {"run_id": "2026-10-02T09:38Z_monthly", "source_id": "jobbank_alberta", "status": "ok", "changed": true, "duration_s": 0.5, "timestamp": "2026-10-02T09:38:08.809321+00:00"}
 {"run_id": "2026-10-02T09:38Z_monthly", "source_id": "jobbank_bc", "status": "ok", "changed": true, "duration_s": 0.4, "timestamp": "2026-10-02T09:38:08.809321+00:00"}
+{"run_id": "2026-10-03T09:00Z_monthly", "source_id": "cicnews_pnp", "status": "ok", "changed": true, "duration_s": 13.6, "timestamp": "2026-10-03T09:00:56.312748+00:00"}
+{"run_id": "2026-10-03T09:00Z_monthly", "source_id": "cicnews_express_entry", "status": "failed", "changed": false, "duration_s": 30.1, "timestamp": "2026-10-03T09:00:56.312748+00:00"}

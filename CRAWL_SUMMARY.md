@@ -1,16 +1,24 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 02/10/2026 lúc 16:38 chiều (giờ VN)  
+**Cập nhật lúc:** 03/10/2026 lúc 16:00 chiều (giờ VN)  
 **Loại cập nhật:** Monthly  
-**Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
+**Kết quả:** 2 nguồn | ✅ 1 thành công | ❌ 1 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### Job Bank — Thị trường việc làm Canada
-- ✅ job_market
-- ✅ job_market
+### CIC News — Tin tức di trú
+- ✅ news_pnp
+- ❌ **news_express_entry** — _The read operation timed out_
+
+---
+
+## ⚠️ Nguồn bị lỗi
+
+Các nguồn dưới đây chưa được cập nhật lần này, hệ thống sẽ thử lại vào lần chạy tiếp theo:
+
+- **news_express_entry** (CICNEWS): https://www.cicnews.com/category/express-entry/feed/
 
 ---
 

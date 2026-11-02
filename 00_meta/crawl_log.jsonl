@@ -294,3 +294,4 @@
 {"run_id": "2026-11-01T08:24Z_monthly", "source_id": "cicnews_express_entry", "status": "ok", "changed": true, "duration_s": 4.5, "timestamp": "2026-11-01T08:24:54.145052+00:00"}
 {"run_id": "2026-11-01T09:48Z_biweekly", "source_id": "reddit_alberta", "status": "ok", "changed": false, "duration_s": 8.4, "timestamp": "2026-11-01T09:48:54.459019+00:00"}
 {"run_id": "2026-11-01T09:48Z_biweekly", "source_id": "reddit_bc", "status": "ok", "changed": false, "duration_s": 8.4, "timestamp": "2026-11-01T09:48:54.459019+00:00"}
+{"run_id": "2026-11-02T08:41Z_weekly", "source_id": "bcpnp_invitations", "status": "ok", "changed": true, "duration_s": 6.2, "timestamp": "2026-11-02T08:41:08.177494+00:00"}

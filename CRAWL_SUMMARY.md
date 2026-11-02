@@ -1,16 +1,17 @@
 # Tóm tắt dữ liệu crawl mới nhất
 
-**Cập nhật lúc:** 02/11/2026 lúc 15:41 chiều (giờ VN)  
-**Loại cập nhật:** Weekly  
-**Kết quả:** 1 nguồn | ✅ 1 thành công | ❌ 0 thất bại
+**Cập nhật lúc:** 02/11/2026 lúc 17:52 chiều (giờ VN)  
+**Loại cập nhật:** Monthly  
+**Kết quả:** 2 nguồn | ✅ 2 thành công | ❌ 0 thất bại
 
 ---
 
 ## Dữ liệu đã cập nhật
 
-### BCPNP — BC Provincial Nominee Program
-- ✅ Lịch sử draws / mời ứng viên
+### Job Bank — Thị trường việc làm Canada
+- ✅ job_market
+- ✅ job_market
 
 ---
 
-_Cập nhật tiếp theo: tuần tới (thứ Hai)._
+_Cập nhật tiếp theo: tháng tới (ngày 1)._

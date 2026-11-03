@@ -2,10 +2,10 @@
 access_level: internal
 article_count: 10
 chunk_strategy: standard
-content_hash: 08fb64922ed0e9f8
+content_hash: e15622645da89a8c
 file_role: express_entry_news
 lang: en
-last_updated: '2026-11-01'
+last_updated: '2026-11-03'
 priority_weight: 0.7
 program: CICNEWS
 retrieval_strategy: direct
@@ -17,7 +17,7 @@ version: '1.0'
 
 # CIC News — Express Entry
 
-**Crawled:** 2026-11-01  
+**Crawled:** 2026-11-03  
 **Source:** https://www.cicnews.com/category/express-entry/feed/
 
 ---
